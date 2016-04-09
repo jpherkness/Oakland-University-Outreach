@@ -1,15 +1,17 @@
-# Oakland University Computer Science Modules
+## Oakland University Computer Science Modules
 
-### Outline
+### Lessons
 
 - [Python](https://github.com/jpherkness/Oakland-University-Outreach/tree/master/Python)
+- [Java](https://github.com/jpherkness/Oakland-University-Outreach/tree/master/Java)
+- [Scratch](https://github.com/jpherkness/Oakland-University-Outreach/tree/master/Scratch)
 
 ### Python (Recommended Order)
 
-Each student should recieve a copy of the Student file. The Instructor file contains all solutions and completed notes.
+Each student should receive a copy of the Student file. The Instructor file contains all solutions and a complete set of notes.
 
-1. Output
-2. Arithmetic
+1. [Output](https://github.com/jpherkness/Oakland-University-Outreach/blob/master/Python/Instructor/output.py)
+2. [Arithmetic](https://github.com/jpherkness/Oakland-University-Outreach/blob/master/Python/Instructor/arithmetic.py)
 3. [Variables](https://github.com/jpherkness/Oakland-University-Outreach/blob/master/Python/Instructor/variables.py)
 4. [Input](https://github.com/jpherkness/Oakland-University-Outreach/blob/master/Python/Instructor/input.py)
 5. [Booleans](https://github.com/jpherkness/Oakland-University-Outreach/blob/master/Python/Instructor/booleans.py)
@@ -28,7 +30,7 @@ Each student should recieve a copy of the Student file. The Instructor file cont
   5. [Pig Latin Translator](https://github.com/jpherkness/Oakland-University-Outreach/tree/master/Python/Instructor/Problems/pig-latin.py)
   6. [Average Calculator](https://github.com/jpherkness/Oakland-University-Outreach/tree/master/Python/Instructor/Problems/average.py)
   7. [Draw a Star](https://github.com/jpherkness/Oakland-University-Outreach/tree/master/Python/Instructor/Problems/draw-star.py)
-  
+
 
 ### Authors
 
