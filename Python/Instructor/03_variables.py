@@ -1,5 +1,5 @@
 # VARIABLES
-# ---------
+# ------------------------------------------------------------------------------
 # A variable is a value that can change.
 # We create a variable by setting a variable name equal to a value.
 
@@ -9,7 +9,7 @@ lesson = "Variables"
 # "Variables".
 
 # DATA TYPES
-# ----------
+# ------------------------------------------------------------------------------
 # Usually, we must specify what type of date a variable stores.
 # This is called the data type.
 
@@ -33,12 +33,12 @@ false = False
 # EXERCISE 1:
 # 1. Create a variable for the day of the month.
 # 2. Create a variable for the name of the month.
-# ----------------------------------------------
+# ------------------------------------------------------------------------------
 day = 8
 month = "May"
 
-# EXERCISE 2: Select the data type that fits best
-# -----------------------------------------------
+# EXERCISE 2: Select the data type that fits best.
+# ------------------------------------------------------------------------------
 # Ex: Age - Integer
 #  1. Speed ----------------------- Float
 #  2. School ---------------------- String
@@ -50,4 +50,3 @@ month = "May"
 #  8. Having Fun ------------------ Boolean
 #  9. Mass ------------------------ Float
 # 10. Date ----------------------- String
-
