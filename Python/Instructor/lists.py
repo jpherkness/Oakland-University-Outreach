@@ -1,9 +1,9 @@
 # NOTES: LISTS
 
 # CREATING LISTS
-# We create a list using a list of comma seperated values between square
+# We create a list using a list of comma separated values between square
 # brackets.
-L1 = [1,2,3,4,5]
+L1 = [1, 2, 3, 4, 5]
 print("L1 is", L1)
 
 # ACCESSING LISTS
@@ -33,7 +33,7 @@ for x in L1:
 
 # EXERCISE 1: Write a function that returns the largest element in a list.
 largest = 0
-L2 = [0,1,2,3,4,5,6,7,8,9,10]
+L2 = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 for i in range(0, len(L2)):
     if L2[i] > largest:
         largest = L2[i]
@@ -41,14 +41,14 @@ print(largest)
 
 # EXERCISE 2: Write a function that checks whether an element occurs in a list.
 search_for = 10
-L3 = [0,1,2,3,4,5,6,7,8,9,10]
+L3 = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 for i in range(0, len(L3)):
     if L3[i] == search_for:
         print("Found it!!!!")
 
 # EXERCISE 3: Write a function that computes the running total of a list.
 total = 0
-L4 = [0,1,2,3,4,5,6,7,8,9,10]
+L4 = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 for i in range(0, len(L4)):
     total = total + L4[i]
 print(total)

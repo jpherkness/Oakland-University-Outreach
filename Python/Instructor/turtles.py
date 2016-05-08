@@ -33,6 +33,4 @@ for side in range(n):
 # EXERCISE 4: Make your turtle walk in a circle.
 turtle.circle(100)  # 100 is the radius
 
-
-
-turtle.exitonclick() # Closes the window when the user clicks on it
+turtle.exitonclick()  # Closes the window when the user clicks on it

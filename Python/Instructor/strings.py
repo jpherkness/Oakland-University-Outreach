@@ -12,7 +12,7 @@ s = "   Hello"
 first_character = s[0]  # 0 is the index
 second_character = s[1] # 1 is the index
 
-# SUBSTRINGS
+# SUB-STRINGS
 first_three_characters = s[0:4] # 0 is inclusive, 4 is exclusive
 
 # There are a bunch of things you can do to strings
@@ -33,8 +33,8 @@ s = s.replace(" ", "_")     # Replace all substrings with a different substring
 # 5. Capitalize every character in the new string
 # 6. Replace and occurrence of 'E' with '*'
 first_string = "Oakland "
-second_stirng = "University "
-third_string = first_string + second_stirng
+second_string = "University "
+third_string = first_string + second_string
 third_string = third_string * 3
 third_string = third_string.strip()
 third_string = third_string.upper()

@@ -11,13 +11,13 @@
 #     <statement>
 #     <statement>
 counter = 0
-while (counter < 10):
+while counter < 10:
     print(counter)
     counter = counter + 1
 
 # FOR LOOPS: A for loop is typically used to loop through a range of numbers.
 #
-# for <counter> in range(<start>, <tail>, <incrementor>):
+# for <counter> in range(<start>, <end>, <incrementer>):
 #     <statement>
 #     <statement>
 #     <statement>
@@ -27,7 +27,7 @@ for counter in range(0, 10):
 # EXERCISE 1: Print all numbers from 0 to the users age
 age = eval(input("Enter your age: "))
 for a in range(age + 1):    # Note: We need to add 1 to age because it is
-    print(a)                # exculusive.
+    print(a)                # exclusive.
 
 # EXERCISE 2: Print all multiples of three between two numbers
 start = 3

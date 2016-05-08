@@ -1,26 +1,26 @@
 # NOTES: DECISIONS
 
 # Decision statements determine whether or not a block of code should be
-# exicuted based on a boolean condition.
+# executed based on a boolean condition.
 
 # IF STATEMENT
-if (10 > 5):                        # (10 > 5) is refered to as the condition
-    print("10 is greater than 5")   # This statement will exicute
-# Note: notice the colen and indentations
+if 10 > 5:  # (10 > 5) is referred to as the condition
+	print("10 is greater than 5")  # This statement will execute
+# Note: notice the colon and indentations
 
 # IF-ELSE STATEMENT
-if (10 < 1):
-    print("10 is less than 1")
+if 10 < 1:
+	print("10 is less than 1")
 else:
-    print("10 is greater than 1")   # This statement will exicute
+	print("10 is greater than 1")  # This statement will exicute
 
 # NESTED IF STATEMENT (IF-ELSEIF-ELSE STATEMENT)
-if (10 < 10):
-    print("10 is less than 10")
-elif (10 == 10):
-    print("10 is equal to 10")      # This statement will exicute
+if 10 < 10:
+	print("10 is less than 10")
+elif 10 == 10:
+	print("10 is equal to 10")  # This statement will execute
 else:
-    print("10 is greater that 10")
+	print("10 is greater that 10")
 
 # EXERCISE 1: Write a program that prompts the user for their password. If
 # their password matches the stored password then print 'Correct!'.
@@ -29,13 +29,13 @@ else:
 original_password = "pa$$word"
 input_password = input("Enter a password: ")
 if input_password == original_password:
-    print("Correct!")
+	print("Correct!")
 else:
-    print("Incorrect!")
+	print("Incorrect!")
 
 # EXERCISE 2: Write a program that asks the user whether they want to solve for
 # velocity, time, or distance. Based on their answer, prompt them for the
-# appropriate inputs, and solve for that answer. When you're finnished, display
+# appropriate inputs, and solve for that answer. When you're finished, display
 # the answer to the user.
 print("")
 print("1. Velocity")
@@ -65,7 +65,7 @@ elif choice == "2":
 
 elif choice == "3":
 
-	#Solve for time
+	# Solve for time
 	d = eval(input("Enter The Distance (meters):"))
 	v = eval(input("Enter The Velocity (meters/seconds):"))
 	t = v / d
