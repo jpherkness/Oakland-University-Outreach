@@ -1,4 +1,4 @@
-## Oakland University Computer Science Modules
+## Oakland University Computer Science Lessons
 
 ### Lessons
 
@@ -43,10 +43,6 @@
 
 ### Contributors
 
-**Joseph Herkness** - Owner - [Website](http://josephherkness.me)
+**[Joseph Herkness](http://joshherkness.com)** - Owner - Computer Science Undergraduate, Oakland University
 
-Computer Science Undergraduate, Oakland University
-
-**Joshua Herkness** - Contributor - [Website](http://joshherkness.com)
-
-Computer Science Undergraduate, Oakland University
+**[Joshua Herkness](http://joshherkness.com)** - Contributor - Computer Science Undergraduate, Oakland University
