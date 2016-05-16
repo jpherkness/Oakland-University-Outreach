@@ -41,6 +41,6 @@
 
 ### Contributors
 
-**[Joseph Herkness](http://joshherkness.com)** - Owner - Computer Science Undergraduate, Oakland University
+👑 **[Joseph Herkness](http://joshherkness.com)** - Owner - Computer Science Undergraduate, Oakland University
 
-**[Joshua Herkness](http://joshherkness.com)** - Contributor - Computer Science Undergraduate, Oakland University
+😎 **[Joshua Herkness](http://joshherkness.com)** - Contributor - Computer Science Undergraduate, Oakland University
