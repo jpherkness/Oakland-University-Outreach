@@ -1,4 +1,4 @@
-# Basic Syntax
+# BASIC SYNTAX
 # ------------------------------------------------------------------------------
 # Syntax is similar to grammar for programmers.
 
@@ -21,6 +21,8 @@ print(42) 			  # This is how we print numbers
 
 # EXERCISE 1: Print your name
 # ------------------------------------------------------------------------------
+print("Joey")
 
 # EXERCISE 2: Print your age
 # ------------------------------------------------------------------------------
+print(10)

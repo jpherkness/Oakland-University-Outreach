@@ -1,17 +1,5 @@
 # BOOLEAN OPERATORS
 # ------------------------------------------------------------------------------
-bool_not = not True
-bool_and = True and True
-bool_or = True or False
-
-# COMPAIRISON OPERATORS
-# ------------------------------------------------------------------------------
-bool_less_than = 10 < 7
-bool_greater_than = 3 > 5
-bool_less_than_or_equal = 4 <= 2
-bool_greater_than_or_equal = 8 >= 4
-bool_equal = 9 == 9
-bool_not_equal = 6 != 2
 
 # EXERCISE 1: Fill out the following truth tables
 # ------------------------------------------------------------------------------

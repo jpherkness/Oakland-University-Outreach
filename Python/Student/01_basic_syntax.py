@@ -1,8 +1,8 @@
-# SIMPLE MATH
+# BASIC SYNTAX
 # ------------------------------------------------------------------------------
 
-# QUESTION 1: What are some math operators?
+# EXERCISE 1: Print your name
 # ------------------------------------------------------------------------------
 
-# EXERCISE 1: Come up with your own operations using each operator.
+# EXERCISE 2: Print your age
 # ------------------------------------------------------------------------------

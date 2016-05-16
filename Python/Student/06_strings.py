@@ -1,29 +1,5 @@
 # STRINGS
 # ------------------------------------------------------------------------------
-# A string is a sequence of characters.
-s = "   Hello"
-
-# ACCESSING CHARACTERS
-# ------------------------------------------------------------------------------
-# Each character is represented by a different index (or position)
-# Note: The first index is 0, not 1
-# |   |   |   | H | e | l | l | o |
-# | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
-
-first_character = s[0]  # 0 is the index
-second_character = s[1] # 1 is the index
-
-# STRING MODIFIERS
-# ------------------------------------------------------------------------------
-# There are a bunch of things you can do to strings
-s = s * 5			        # Repeat the string multiple times
-s = s + "   "               # Add strings together
-length = len(s)             # Retrieve the length of a string
-s = s.title()			    # Capitalizes the first character
-s = s.upper()			    # Capitalizes each character
-s = s.lower()			    # Makes each character lowercase
-s = s.strip()			    # Removes any trailing or leading spaces
-s = s.replace(" ", "_")     # Replace all substrings with a different substring
 
 # EXERCISE 1:
 # 1. Declare two string variables and assign them values

@@ -1,22 +1,5 @@
 # INPUT
 # ------------------------------------------------------------------------------
-# In python we can use the input function to ask the user for some information.
-# The string inside the parenthesis is called the prompt.
-
-i = input("Enter something: ")
-
-
-# EVALUATION
-# ------------------------------------------------------------------------------
-# When we want to convert a string to a number we use the following function.
-
-ten1 = eval("10")
-ten2 = 10
-
-# These two statements are the same
-# This is very useful when you are trying to prompt the user for a number.
-
-num = eval(input("Enter a number: "))
 
 # EXERCISE 1: Simple Input
 # 1. Prompt the user for their age, then print the result
