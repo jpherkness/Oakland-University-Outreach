@@ -1,5 +1,3 @@
-## Oakland University Computer Science Lessons
-
 ### Lessons
 
 - [Python](https://github.com/jpherkness/Oakland-University-Outreach/tree/master/Python)
