@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 ## Oakland University Computer Science Lessons
 
+=======
+>>>>>>> 2ec1d8b4ef1ae4a607c5a47804efb787bf7e1182
 ### Lessons
 
 - [Python](https://github.com/jpherkness/Oakland-University-Outreach/tree/master/Python)
@@ -8,11 +11,11 @@
 
 ### Python
 
-#### Instructions:
+##### Instructions:
 1. Give each student a copy of the student folder.
 2. Walk through the lesson in the order below.
 
-#### Outline:
+##### Outline:
 
 1. [Basic Syntax](https://github.com/jpherkness/Oakland-University-Outreach/blob/master/Python/Instructor/01_basic_syntax.py)
 2. [Simple Math](https://github.com/jpherkness/Oakland-University-Outreach/blob/master/Python/Instructor/02_simple_math.py)
@@ -37,14 +40,12 @@
 
 ### Java
 
-#### Instructions:
+##### Instructions:
 
-#### Outline:
+##### Outline:
 
 ### Contributors
 
-**Joseph Herkness** - Owner - [Website](http://josephherkness.me)
-Computer Science Undergrad, Oakland University
+👑 **[Joseph Herkness](http://joshherkness.com)** - Owner - Computer Science Undergraduate, Oakland University
 
-**Joshua Herkness** - Contributor - [Website](http://joshherkness.com)
-Computer Science Undergrad, Oakland University
+😎 **[Joshua Herkness](http://joshherkness.com)** - Contributor - Computer Science Undergraduate, Oakland University
