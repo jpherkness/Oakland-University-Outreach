@@ -1,4 +1,4 @@
-## Oakland University Computer Science Modules
+## Oakland University Computer Science Lessons
 
 ### Lessons
 
