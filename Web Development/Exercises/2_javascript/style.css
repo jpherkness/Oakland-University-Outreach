@@ -1,0 +1,39 @@
+body {
+    height: 100%;
+    margin: 0px;
+
+    font-family: 'Montserrat', sans-serif;
+}
+
+.flash-wrapper {
+
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+
+    height: 100%;
+    width: 100%;
+
+    background-color: #0cbe73;
+}
+
+.button {
+
+    flex: 0 0 200px;
+
+    background-color: white;
+    color: #0cbe73;
+    padding: 20px;
+    margin: 20px;
+    font-size: 25px;
+    border-radius: 50px;
+
+    text-align: center;
+
+}
+
+.button:hover {
+    cursor: pointer;
+    box-shadow: 0 0 60px rgba(0, 0, 0, 0.15);
+}

@@ -1,0 +1,12 @@
+body {
+    background-color: red;
+    color: white;
+}
+
+p {
+    text-align: center;
+}
+
+h1, h2, h3 {
+    font-size: 70px;
+}
