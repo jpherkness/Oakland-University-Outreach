@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 ## Oakland University Computer Science Lessons
-
-=======
->>>>>>> 2ec1d8b4ef1ae4a607c5a47804efb787bf7e1182
 ### Lessons
 
 - [Python](https://github.com/jpherkness/Oakland-University-Outreach/tree/master/Python)
