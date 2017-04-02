@@ -14,7 +14,7 @@ if 10 > 5:  # (10 > 5) is referred to as the condition
 if 10 < 1:
 	print("10 is less than 1")
 else:
-	print("10 is greater than 1")  # This statement will exicute
+	print("10 is greater than 1")  # This statement will execute
 
 # NESTED IF STATEMENT (IF-ELSEIF-ELSE STATEMENT)
 # ------------------------------------------------------------------------------

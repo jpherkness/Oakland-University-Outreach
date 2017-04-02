@@ -1,8 +1,11 @@
-# Write a program that allows theh user to encrypt and decrypt a plain text message using the caesar cipher.
-
+# Write a program that allows the user to encrypt and decrypt a
+# plain text message using the caesar cipher.
+# ------------------------------------------------------------------------------
 import string
 
-# Function that prompts the user to either encrypt or decrypt a given message.
+#
+# Function that prompts the user to either encrypt or decrypt a message.
+#
 def prompt():
     option = input("Would you like to encrypt (E) or decrypt (D) a message: ")
     message = input("Please input your message: ")
